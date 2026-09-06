@@ -1,7 +1,7 @@
 # Trabalho Final — Ciência de Dados II: Do Dado Bruto à Descoberta de Conhecimento
 
-**Nome completo:** [Luciane Siqueira Fernandes]
-**Matrícula:** [preencher]
+**Nome completo:** Luciane Siqueira Fernandes
+**Matrícula:** 72500418
 
 ## Descrição do projeto
 
